@@ -2,3 +2,4 @@ thish is sample file for sample3 folder
 
 adding extar line 
 12345677
+from git adding 
